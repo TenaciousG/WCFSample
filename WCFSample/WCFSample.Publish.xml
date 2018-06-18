@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:8092/">
+    <file relUrl="bin/WCFSample.dll" publishTime="06/18/2018 20:31:23" />
+    <file relUrl="bin/WCFSample.dll.config" publishTime="06/18/2018 18:49:16" />
+    <file relUrl="bin/WCFSample.pdb" publishTime="06/18/2018 20:31:23" />
+    <file relUrl="WCFSample.Service1.svc" publishTime="06/18/2018 20:31:52" />
+    <file relUrl="Web.config" publishTime="06/18/2018 18:49:16" />
+  </publishTarget>
+</publishData>
