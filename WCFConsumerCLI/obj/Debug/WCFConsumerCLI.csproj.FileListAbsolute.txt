@@ -1,0 +1,6 @@
+C:\Git\Other\WCFSample\WCFConsumerCLI\obj\Debug\WCFConsumerCLI.csproj.CoreCompileInputs.cache
+C:\Git\Other\WCFSample\WCFConsumerCLI\bin\Debug\WCFConsumerCLI.exe.config
+C:\Git\Other\WCFSample\WCFConsumerCLI\bin\Debug\WCFConsumerCLI.exe
+C:\Git\Other\WCFSample\WCFConsumerCLI\bin\Debug\WCFConsumerCLI.pdb
+C:\Git\Other\WCFSample\WCFConsumerCLI\obj\Debug\WCFConsumerCLI.exe
+C:\Git\Other\WCFSample\WCFConsumerCLI\obj\Debug\WCFConsumerCLI.pdb

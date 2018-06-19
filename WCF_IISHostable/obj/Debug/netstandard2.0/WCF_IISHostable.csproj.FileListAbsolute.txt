@@ -1,9 +1,0 @@
-C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCF_IISHostable\bin\Debug\netstandard2.0\WCF_IISHostable.deps.json
-C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCF_IISHostable\bin\Debug\netstandard2.0\WCF_IISHostable.dll
-C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCF_IISHostable\bin\Debug\netstandard2.0\WCF_IISHostable.pdb
-C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCF_IISHostable\obj\Debug\netstandard2.0\WCF_IISHostable.csproj.CoreCompileInputs.cache
-C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCF_IISHostable\obj\Debug\netstandard2.0\WCF_IISHostable.AssemblyInfoInputs.cache
-C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCF_IISHostable\obj\Debug\netstandard2.0\WCF_IISHostable.AssemblyInfo.cs
-C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCF_IISHostable\obj\Debug\netstandard2.0\WCF_IISHostable.dll
-C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCF_IISHostable\obj\Debug\netstandard2.0\WCF_IISHostable.pdb
-C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCF_IISHostable\obj\Debug\netstandard2.0\WCF_IISHostable.csprojResolveAssemblyReference.cache

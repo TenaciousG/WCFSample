@@ -9,3 +9,14 @@ C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCFConsoleRun\obj\D
 C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCFConsoleRun\obj\Debug\WCFConsoleRun.csproj.CopyComplete
 C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCFConsoleRun\obj\Debug\WCFConsoleRun.exe
 C:\Users\gol\Documents\Visual Studio 2017\Projects\WCFSample\WCFConsoleRun\obj\Debug\WCFConsoleRun.pdb
+C:\Git\Other\WCFSample\WCFConsoleRun\bin\Debug\WCFConsoleRun.exe.config
+C:\Git\Other\WCFSample\WCFConsoleRun\bin\Debug\WCFConsoleRun.exe
+C:\Git\Other\WCFSample\WCFConsoleRun\bin\Debug\WCFConsoleRun.pdb
+C:\Git\Other\WCFSample\WCFConsoleRun\bin\Debug\WCFSample.dll
+C:\Git\Other\WCFSample\WCFConsoleRun\bin\Debug\WCFSample.pdb
+C:\Git\Other\WCFSample\WCFConsoleRun\bin\Debug\WCFSample.dll.config
+C:\Git\Other\WCFSample\WCFConsoleRun\obj\Debug\WCFConsoleRun.csprojAssemblyReference.cache
+C:\Git\Other\WCFSample\WCFConsoleRun\obj\Debug\WCFConsoleRun.csproj.CoreCompileInputs.cache
+C:\Git\Other\WCFSample\WCFConsoleRun\obj\Debug\WCFConsoleRun.csproj.CopyComplete
+C:\Git\Other\WCFSample\WCFConsoleRun\obj\Debug\WCFConsoleRun.exe
+C:\Git\Other\WCFSample\WCFConsoleRun\obj\Debug\WCFConsoleRun.pdb

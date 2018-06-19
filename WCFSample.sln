@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFSample", "WCFSample\WCFS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFConsoleRun", "WCFConsoleRun\WCFConsoleRun.csproj", "{9890D252-7992-4062-92D1-45000BFA2BBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_IISHostable", "WCF_IISHostable\WCF_IISHostable.csproj", "{A9BCA6EA-9BC8-4C48-9DD9-1CA6639127CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFConsumerCLI", "WCFConsumerCLI\WCFConsumerCLI.csproj", "{856AB6CE-723C-4302-9A2F-59C30C5835FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{9890D252-7992-4062-92D1-45000BFA2BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9890D252-7992-4062-92D1-45000BFA2BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9890D252-7992-4062-92D1-45000BFA2BBA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9BCA6EA-9BC8-4C48-9DD9-1CA6639127CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9BCA6EA-9BC8-4C48-9DD9-1CA6639127CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9BCA6EA-9BC8-4C48-9DD9-1CA6639127CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9BCA6EA-9BC8-4C48-9DD9-1CA6639127CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856AB6CE-723C-4302-9A2F-59C30C5835FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856AB6CE-723C-4302-9A2F-59C30C5835FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856AB6CE-723C-4302-9A2F-59C30C5835FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856AB6CE-723C-4302-9A2F-59C30C5835FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
